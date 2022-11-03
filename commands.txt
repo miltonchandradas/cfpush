@@ -16,6 +16,7 @@ SETUP:
 ----------------------------------------------------------------------------------------
 cf create-service hana hdi-shared myawesomehana-db
 cf push
+cf scale myawesomephp -i 3
 
 
 CLEANUP:
