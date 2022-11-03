@@ -6,6 +6,8 @@ applications:
   - name: myawesomenode
     path: ./node/
     random-route: true
+    services:
+     - myawesomehana-db
   - name: myawesomephp
     path: ./php/
     random-route: true

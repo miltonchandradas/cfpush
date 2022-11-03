@@ -4,3 +4,5 @@ applications:
  - name: myawesomenode
    instances: 1
    memory: 128M
+   services:
+     - myawesomehana-db

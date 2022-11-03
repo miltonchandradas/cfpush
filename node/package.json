@@ -9,6 +9,8 @@
   "author": "Milton",
   "license": "ISC",
   "dependencies": {
+    "@sap/hdbext": "^7.7.0",
+    "@sap/xsenv": "^3.4.0",
     "express": "^4.17.1"
   }
 }
