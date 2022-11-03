@@ -9,6 +9,8 @@ cf service myawesomehana-db
 
 cf env myawesomenode
 
+cf buildpacks
+
 
 SETUP:
 ----------------------------------------------------------------------------------------
