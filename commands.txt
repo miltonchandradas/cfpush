@@ -3,3 +3,5 @@ cf app myawesomephp
 cf app myawesomenode
 
 cf push
+cf delete -r myawesomenode
+cf delete -r myawesomephp
