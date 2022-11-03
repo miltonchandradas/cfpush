@@ -3,8 +3,11 @@ APP & SERVICE STATUS:
 cf apps
 cf app myawesomephp
 cf app myawesomenode
+
 cf services
 cf service myawesomehana-db
+
+cf env myawesomenode
 
 
 SETUP:
