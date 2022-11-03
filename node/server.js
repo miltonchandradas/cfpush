@@ -19,4 +19,6 @@ app.get("/hana", (req, res, next) => {
   });
 });
 
+app.get("/hello", (req, res) => res.send("Hello from express"));
+
 app.listen(PORT, console.log(`Listening on ${PORT}`));
