@@ -1,0 +1,6 @@
+---
+# My Node application
+applications:
+ - name: myawesomenode
+   instances: 1
+   memory: 128M

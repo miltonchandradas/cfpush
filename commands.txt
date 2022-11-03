@@ -1,0 +1,5 @@
+cf apps
+cf app myawesomephp
+cf app myawesomenode
+
+cf push
