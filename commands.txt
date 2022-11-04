@@ -23,3 +23,5 @@ CLEANUP:
 ----------------------------------------------------------------------------------------
 cf delete -r -f myawesomenode
 cf delete -r -f myawesomephp
+
+cf delete-service myawesomehana-db -f
