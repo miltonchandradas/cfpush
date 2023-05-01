@@ -1,0 +1,5 @@
+---
+# My html application
+applications:
+ - name: myawesomehtml
+   buildpack: https://github.com/cloudfoundry/staticfile-buildpack
